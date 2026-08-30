@@ -1,0 +1,35 @@
+employee_id,employee_name,gender,department,job_title,location,joining_date,age,salary,employment_type,email
+1001,Aarav Sharma,Male,Hr,HR Executive,Delhi,2022-01-10,28.0,55000.0,Permanent,aarav.sharma@email.com
+1002,Meera Iyer,Female,Finance,Financial Analyst,Mumbai,2021-06-15,31.0,72000.0,Permanent,meera.iyer@email.com
+1003,Rohan Gupta,Male,It,Software Engineer,Bengaluru,2020-03-20,29.0,85000.0,Permanent,rohan.gupta@email.com
+1004,Ananya Singh,Female,Marketing,Marketing Manager,Delhi,2019-11-05,35.0,95000.0,Permanent,ananya.singh@email.com
+1005,Kabir Khan,Male,Sales,Sales Executive,Gurugram,2023-02-01,26.0,60000.0,Contract,kabir.khan@email.com
+1006,Priya Nair,Female,It,Data Analyst,Bengaluru,2022-08-12,27.0,78000.0,Permanent,priya.nair@email.com
+1007,Vikram Rao,Male,Operations,Operations Executive,Pune,2021-04-18,33.0,68000.0,Permanent,vikram.rao@email.com
+1008,Sana Ali,Female,Finance,Accountant,Mumbai,2020-09-25,30.0,64000.0,Permanent,sana.ali@email.com
+1009,Arjun Mehta,Male,It,Senior Software Engineer,Bengaluru,2018-07-30,38.0,125000.0,Permanent,arjun.mehta@email.com
+1010,Neha Kapoor,Female,Hr,HR Manager,Delhi,2017-05-22,41.0,110000.0,Permanent,neha.kapoor@email.com
+1011,Aditya Verma,Male,Sales,Sales Manager,Gurugram,2019-10-14,36.0,98000.0,Permanent,aditya.verma@email.com
+1012,Ishita Bose,Female,Marketing,Content Specialist,Kolkata,2022-11-01,25.0,52000.0,Contract,ishita.bose@email.com
+1013,Rahul Joshi,Male,Operations,Operations Manager,Pune,2016-02-10,44.0,118000.0,Permanent,rahul.joshi@email.com
+1014,Tanya Roy,Female,It,QA Engineer,Kolkata,2023-01-16,24.0,58000.0,Permanent,tanya.roy@email.com
+1015,Nitin Bhatia,Male,Finance,Finance Manager,Mumbai,2018-12-03,39.0,115000.0,Permanent,nitin.bhatia@email.com
+1016,Simran Kaur,Female,Hr,Recruiter,Delhi,2022-03-11,29.0,57000.0,Permanent,simran.kaur@email.com
+1017,Dev Malhotra,Male,Sales,Account Executive,Gurugram,2021-07-19,32.0,73000.0,Permanent,dev.malhotra@email.com
+1018,Pooja Das,Female,Marketing,Marketing Executive,Kolkata,2020-01-27,34.0,69000.0,Permanent,pooja.das@email.com
+1019,Kunal Shah,Male,It,DevOps Engineer,Bengaluru,2019-04-09,37.0,108000.0,Permanent,kunal.shah@email.com
+1020,Riya Sethi,Female,Operations,Business Analyst,Pune,2022-06-06,28.0,76000.0,Permanent,riya.sethi@email.com
+1021,Manish Yadav,Male,Finance,Senior Accountant,Mumbai,2017-09-18,42.0,89000.0,Permanent,manish.yadav@email.com
+1022,Kritika Jain,Female,Hr,L&D Specialist,Delhi,2021-01-12,30.0,70000.0,Permanent,kritika.jain@email.com
+1023,Sahil Arora,Male,Sales,Sales Executive,Gurugram,2023-04-03,25.0,59000.0,Contract,sahil.arora@email.com
+1024,Divya Menon,Female,It,Data Scientist,Bengaluru,2020-05-21,33.0,112000.0,Permanent,divya.menon@email.com
+1025,Yash Thakur,Male,Marketing,SEO Specialist,Delhi,2022-10-17,27.0,61000.0,Permanent,yash.thakur@email.com
+1026,Aisha Khan,Female,Finance,Financial Analyst,Mumbai,2021-03-08,29.0,74000.0,Permanent,aisha.khan@email.com
+1027,Mohit Jain,Male,Operations,Process Analyst,Pune,2022-12-01,31.0,66000.0,Permanent,mohit.jain@email.com
+1028,Nandini Rao,Female,Hr,HR Executive,Delhi,2023-01-09,26.0,54000.0,Permanent,nandini.rao@email.com
+1029,Suresh Kumar,Male,It,Software Engineer,Bengaluru,2019-08-26,36.0,92000.0,Permanent,suresh.kumar@email.com
+1030,Lavanya Reddy,Female,Sales,Key Account Manager,Hyderabad,2018-06-14,40.0,105000.0,Permanent,lavanya.reddy@email.com
+1031,Om Prakash,Male,Operations,Operations Executive,Pune,2023-03-13,27.0,72000.0,Contract,om.prakash@email.com
+1032,Sneha Patil,Female,Finance,Accountant,Mumbai,2021-08-23,31.0,62000.0,Permanent,
+1033,Rajiv Kapoor,Male,It,Support Engineer,Delhi,,32.0,92000.0,Permanent,rajiv.kapoor@email.com
+1034,Komal Sharma,Female,HR,Recruiter,Delhi,2022-02-14,28.0,56000.0,Permanent,komal.sharma@email.com
